@@ -1,0 +1,2 @@
+# RabbitMQ.Demo
+AMQP,RabbitMQ
